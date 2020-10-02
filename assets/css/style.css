@@ -34,7 +34,7 @@ footer h2 {
 
 /* Header */
 
-/* Edit: Updated class child element to nav to align with html changes */
+/* Edit: Updated class child element to header nav to align with html changes */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -79,7 +79,7 @@ footer h2 {
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
-    object-fit:cover;
+    object-fit: cover;
 }
 
 
