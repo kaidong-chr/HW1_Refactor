@@ -27,7 +27,7 @@ Refactored CSS for effeciency and best practices.
 ### Installation
 
 Prefered application and version controlled system.
-* *Visual Studio Code - https://code.visualstudio.com/download
+* Visual Studio Code - https://code.visualstudio.com/download
 * Git - https://git-scm.com/downloads
 
 ### Contributing
