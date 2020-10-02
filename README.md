@@ -14,8 +14,8 @@ Restructured HTML to use semantic elements to support accessbility and effecienc
 
 Refactored CSS for effeciency and best practices.
 
-* Reorganized css structure to flow logically
-* Used wildcards to combine redudant class properties
+* Reorganized CSS structure to flow logically
+* Used wildcards to combine redundant class properties
 * Added descriptive comments
 * Updated class child elements to align with semantic elements in HTML
 * Added object-fit so the cover image does not stretch
