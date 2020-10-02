@@ -1,7 +1,7 @@
-# Homework 1 Refactor Horiseon Web Page
+# Refactor Horiseon Web Page
 
 ### Overview
-Refactor an existing website, keeping the  feature and fucntion the same while adhering to accessibility and coding standards.
+Refactor an existing website, keeping feature and fucntion the same while adhering to accessibility and coding standards.
 
 ### Solution
 Restructured HTML to use semantic elements to support accessbility and effeciency. 
