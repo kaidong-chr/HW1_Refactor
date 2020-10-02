@@ -1,16 +1,16 @@
 # Refactor Horiseon Web Page
 
 ### Overview
-Refactor an existing website, keeping feature and fucntion the same while adhering to accessibility and coding standards.
+Refactor an existing website, keeping feature and function the same while adhering to accessibility and coding standards.
 
 ### Solution
-Restructured HTML to use semantic elements to support accessbility and effeciency. 
+Restructured HTML to use semantic elements to support accessibility and effeciency.
 
 * Updated website title
 * Added descriptive tags and comments
 * Added semantic elements
 * Mended "Search Engine Optimization" link function
-* Moved cover image from CSS to html
+* Moved cover image from CSS to HTML
 
 Refactored CSS for effeciency and best practices.
 
@@ -18,11 +18,14 @@ Refactored CSS for effeciency and best practices.
 * Used wildcards to combine redundant class properties
 * Added descriptive comments
 * Updated class child elements to align with semantic elements in HTML
+* Added stylesheet reset to boost browser consistency
 * Added object-fit so the cover image does not stretch
 
 ### Horiseon Webpage 
-![Image](/assets/images/kaidong-chr.github.io_HW1_Refactor.png "Full Horiseon Webpage")
+![Image](/assets/images/kaidong-chr.github.io_HW1_Refactor.png "Full Horiseon Webpage Image")
 ![Image](https://img.shields.io/badge/Languages-html%20%7C%20css%20-yellow)
+<br>
+[Horiseon Webpage Link](https://kaidong-chr.github.io/HW1_Refactor/)
 
 ### Installation
 
@@ -32,8 +35,8 @@ Prefered application and version controlled system.
 
 ### Contributing
 
-To contribue clone from the repo.
-You can also fork or download from the repo, if you want to view or edit this in your own space.
+To contribute clone from the repo.
+You can also fork or download from the repo, if you prefer to view or edit this in your own space.
 
 [![HitCount](https://img.shields.io/github/search/kaidong-chr/HW1_Refactor/search)](https://img.shields.io/github/search/kaidong-chr/HW1_Refactor/search})
 
